@@ -1,468 +1,950 @@
-{"cn":
- 
-        {
-      "iso2": "cn",
-      "iso3": "chn",
-      "name": "China",
-      "capital": "Beijing",
-      "flag": "🇨🇳",
-      "lat": 39.9042,
-      "lng": 116.4074
-    },
- "br":
-    {
-        "iso2": "br",
-        "iso3": "bra",
-        "name": "Brazil",
-        "capital": "Brasília",
-        "flag": "🇧🇷",
-        "lat": -15.7942,
-        "lng": -47.8825
-    
-},
-"us": {
-  "iso2": "us",
-  "iso3": "usa",
-  "name": "United States",
-  "capital": "Washington, D.C.",
-  "flag": "🇺🇸",
-  "lat": 38.9072,
-  "lng": -77.0369
-},
-"in": {
-  "iso2": "in",
-  "iso3": "ind",
-  "name": "India",
-  "capital": "New Delhi",
-  "flag": "🇮🇳",
-  "lat": 28.6139,
-  "lng": 77.209
-},
+{
+  "cn": {
+    "iso2": "cn",
+    "iso3": "chn",
+    "name": "China",
+    "capital": "Beijing",
+    "flag": "🇨🇳",
+    "lat": 39.9042,
+    "lng": 116.4074
+  },
+  "br": {
+    "iso2": "br",
+    "iso3": "bra",
+    "name": "Brazil",
+    "capital": "Brasília",
+    "flag": "🇧🇷",
+    "lat": -15.7942,
+    "lng": -47.8825
+  },
+  "us": {
+    "iso2": "us",
+    "iso3": "usa",
+    "name": "United States",
+    "capital": "Washington, D.C.",
+    "flag": "🇺🇸",
+    "lat": 38.9072,
+    "lng": -77.0369
+  },
+  "in": {
+    "iso2": "in",
+    "iso3": "ind",
+    "name": "India",
+    "capital": "New Delhi",
+    "flag": "🇮🇳",
+    "lat": 28.6139,
+    "lng": 77.209
+  },
 
-"jp": {
-  "iso2": "jp",
-  "iso3": "jpn",
-  "name": "Japan",
-  "capital": "Tokyo",
-  "flag": "🇯🇵",
-  "lat": 35.6895,
-  "lng": 139.6917
-},
+  "jp": {
+    "iso2": "jp",
+    "iso3": "jpn",
+    "name": "Japan",
+    "capital": "Tokyo",
+    "flag": "🇯🇵",
+    "lat": 35.6895,
+    "lng": 139.6917
+  },
 
+  "al": {
+    "iso2": "al",
+    "iso3": "alb",
+    "name": "Albania",
+    "capital": "Tirana",
+    "flag": "🇦🇱",
+    "lat": 41.3275,
+    "lng": 19.8189
+  },
+  "ad": {
+    "iso2": "ad",
+    "iso3": "and",
+    "name": "Andorra",
+    "capital": "Andorra la Vella",
+    "flag": "🇦🇩",
+    "lat": 42.5078,
+    "lng": 1.5211
+  },
+  "at": {
+    "iso2": "at",
+    "iso3": "aut",
+    "name": "Austria",
+    "capital": "Vienna",
+    "flag": "🇦🇹",
+    "lat": 48.2082,
+    "lng": 16.3738
+  },
+  "by": {
+    "iso2": "by",
+    "iso3": "blr",
+    "name": "Belarus",
+    "capital": "Minsk",
+    "flag": "🇧🇾",
+    "lat": 53.9045,
+    "lng": 27.5615
+  },
+  "be": {
+    "iso2": "be",
+    "iso3": "bel",
+    "name": "Belgium",
+    "capital": "Brussels",
+    "flag": "🇧🇪",
+    "lat": 50.8503,
+    "lng": 4.3517
+  },
+  "ba": {
+    "iso2": "ba",
+    "iso3": "bih",
+    "name": "Bosnia and Herzegovina",
+    "capital": "Sarajevo",
+    "flag": "🇧🇦",
+    "lat": 43.8563,
+    "lng": 18.4131
+  },
+  "bg": {
+    "iso2": "bg",
+    "iso3": "bgr",
+    "name": "Bulgaria",
+    "capital": "Sofia",
+    "flag": "🇧🇬",
+    "lat": 42.6977,
+    "lng": 23.3219
+  },
+  "hr": {
+    "iso2": "hr",
+    "iso3": "hrv",
+    "name": "Croatia",
+    "capital": "Zagreb",
+    "flag": "🇭🇷",
+    "lat": 45.815,
+    "lng": 15.9819
+  },
+  "cy": {
+    "iso2": "cy",
+    "iso3": "cyp",
+    "name": "Cyprus",
+    "capital": "Nicosia",
+    "flag": "🇨🇾",
+    "lat": 35.1856,
+    "lng": 33.3823
+  },
+  "cz": {
+    "iso2": "cz",
+    "iso3": "cze",
+    "name": "Czech Republic",
+    "capital": "Prague",
+    "flag": "🇨🇿",
+    "lat": 50.0755,
+    "lng": 14.4378
+  },
+  "dk": {
+    "iso2": "dk",
+    "iso3": "dnk",
+    "name": "Denmark",
+    "capital": "Copenhagen",
+    "flag": "🇩🇰",
+    "lat": 55.6761,
+    "lng": 12.5683
+  },
+  "ee": {
+    "iso2": "ee",
+    "iso3": "est",
+    "name": "Estonia",
+    "capital": "Tallinn",
+    "flag": "🇪🇪",
+    "lat": 59.437,
+    "lng": 24.7535
+  },
+  "fi": {
+    "iso2": "fi",
+    "iso3": "fin",
+    "name": "Finland",
+    "capital": "Helsinki",
+    "flag": "🇫🇮",
+    "lat": 60.1695,
+    "lng": 24.9354
+  },
+  "fr": {
+    "iso2": "fr",
+    "iso3": "fra",
+    "name": "France",
+    "capital": "Paris",
+    "flag": "🇫🇷",
+    "lat": 48.8566,
+    "lng": 2.3522
+  },
+  "ge": {
+    "iso2": "ge",
+    "iso3": "geo",
+    "name": "Georgia",
+    "capital": "Tbilisi",
+    "flag": "🇬🇪",
+    "lat": 41.7151,
+    "lng": 44.8271
+  },
+  "de": {
+    "iso2": "de",
+    "iso3": "deu",
+    "name": "Germany",
+    "capital": "Berlin",
+    "flag": "🇩🇪",
+    "lat": 52.52,
+    "lng": 13.405
+  },
+  "gr": {
+    "iso2": "gr",
+    "iso3": "grc",
+    "name": "Greece",
+    "capital": "Athens",
+    "flag": "🇬🇷",
+    "lat": 37.9838,
+    "lng": 23.7275
+  },
+  "hu": {
+    "iso2": "hu",
+    "iso3": "hun",
+    "name": "Hungary",
+    "capital": "Budapest",
+    "flag": "🇭🇺",
+    "lat": 47.4979,
+    "lng": 19.0402
+  },
+  "is": {
+    "iso2": "is",
+    "iso3": "isl",
+    "name": "Iceland",
+    "capital": "Reykjavik",
+    "flag": "🇮🇸",
+    "lat": 64.1355,
+    "lng": -21.8954
+  },
+  "ie": {
+    "iso2": "ie",
+    "iso3": "irl",
+    "name": "Ireland",
+    "capital": "Dublin",
+    "flag": "🇮🇪",
+    "lat": 53.3498,
+    "lng": -6.2603
+  },
+  "it": {
+    "iso2": "it",
+    "iso3": "ita",
+    "name": "Italy",
+    "capital": "Rome",
+    "flag": "🇮🇹",
+    "lat": 41.9028,
+    "lng": 12.4964
+  },
+  "lv": {
+    "iso2": "lv",
+    "iso3": "lva",
+    "name": "Latvia",
+    "capital": "Riga",
+    "flag": "🇱🇻",
+    "lat": 56.9496,
+    "lng": 24.1052
+  },
+  "li": {
+    "iso2": "li",
+    "iso3": "lie",
+    "name": "Liechtenstein",
+    "capital": "Vaduz",
+    "flag": "🇱🇮",
+    "lat": 47.141,
+    "lng": 9.5209
+  },
+  "lt": {
+    "iso2": "lt",
+    "iso3": "ltu",
+    "name": "Lithuania",
+    "capital": "Vilnius",
+    "flag": "🇱🇹",
+    "lat": 54.6872,
+    "lng": 25.2797
+  },
+  "lu": {
+    "iso2": "lu",
+    "iso3": "lux",
+    "name": "Luxembourg",
+    "capital": "Luxembourg City",
+    "flag": "🇱🇺",
+    "lat": 49.6117,
+    "lng": 6.13
+  },
+  "mt": {
+    "iso2": "mt",
+    "iso3": "mlt",
+    "name": "Malta",
+    "capital": "Valletta",
+    "flag": "🇲🇹",
+    "lat": 35.897,
+    "lng": 14.5126
+  },
+  "md": {
+    "iso2": "md",
+    "iso3": "mda",
+    "name": "Moldova",
+    "capital": "Chișinău",
+    "flag": "🇲🇩",
+    "lat": 47.0105,
+    "lng": 28.8638
+  },
+  "mc": {
+    "iso2": "mc",
+    "iso3": "mco",
+    "name": "Monaco",
+    "capital": "Monaco",
+    "flag": "🇲🇨",
+    "lat": 43.7384,
+    "lng": 7.4246
+  },
+  "me": {
+    "iso2": "me",
+    "iso3": "mne",
+    "name": "Montenegro",
+    "capital": "Podgorica",
+    "flag": "🇲🇪",
+    "lat": 42.4413,
+    "lng": 19.2636
+  },
+  "nl": {
+    "iso2": "nl",
+    "iso3": "nld",
+    "name": "Netherlands",
+    "capital": "Amsterdam",
+    "flag": "🇳🇱",
+    "lat": 52.3676,
+    "lng": 4.9041
+  },
+  "mk": {
+    "iso2": "mk",
+    "iso3": "mkd",
+    "name": "North Macedonia",
+    "capital": "Skopje",
+    "flag": "🇲🇰",
+    "lat": 41.9973,
+    "lng": 21.428
+  },
+  "no": {
+    "iso2": "no",
+    "iso3": "nor",
+    "name": "Norway",
+    "capital": "Oslo",
+    "flag": "🇳🇴",
+    "lat": 59.9139,
+    "lng": 10.7522
+  },
+  "pl": {
+    "iso2": "pl",
+    "iso3": "pol",
+    "name": "Poland",
+    "capital": "Warsaw",
+    "flag": "🇵🇱",
+    "lat": 52.2297,
+    "lng": 21.0122
+  },
+  "pt": {
+    "iso2": "pt",
+    "iso3": "prt",
+    "name": "Portugal",
+    "capital": "Lisbon",
+    "flag": "🇵🇹",
+    "lat": 38.7223,
+    "lng": -9.1393
+  },
+  "ro": {
+    "iso2": "ro",
+    "iso3": "rou",
+    "name": "Romania",
+    "capital": "Bucharest",
+    "flag": "🇷🇴",
+    "lat": 44.4268,
+    "lng": 26.1025
+  },
+  "ru": {
+    "iso2": "ru",
+    "iso3": "rus",
+    "name": "Russia",
+    "capital": "Moscow",
+    "flag": "🇷🇺",
+    "lat": 55.7558,
+    "lng": 37.6176
+  },
+  "sm": {
+    "iso2": "sm",
+    "iso3": "smr",
+    "name": "San Marino",
+    "capital": "San Marino",
+    "flag": "🇸🇲",
+    "lat": 43.9333,
+    "lng": 12.45
+  },
+  "rs": {
+    "iso2": "rs",
+    "iso3": "srb",
+    "name": "Serbia",
+    "capital": "Belgrade",
+    "flag": "🇷🇸",
+    "lat": 44.7866,
+    "lng": 20.4489
+  },
+  "sk": {
+    "iso2": "sk",
+    "iso3": "svk",
+    "name": "Slovakia",
+    "capital": "Bratislava",
+    "flag": "🇸🇰",
+    "lat": 48.1486,
+    "lng": 17.1077
+  },
+  "si": {
+    "iso2": "si",
+    "iso3": "svn",
+    "name": "Slovenia",
+    "capital": "Ljubljana",
+    "flag": "🇸🇮",
+    "lat": 46.0569,
+    "lng": 14.5058
+  },
+  "es": {
+    "iso2": "es",
+    "iso3": "esp",
+    "name": "Spain",
+    "capital": "Madrid",
+    "flag": "🇪🇸",
+    "lat": 40.4168,
+    "lng": -3.7038
+  },
+  "se": {
+    "iso2": "se",
+    "iso3": "swe",
+    "name": "Sweden",
+    "capital": "Stockholm",
+    "flag": "🇸🇪",
+    "lat": 59.3293,
+    "lng": 18.0686
+  },
+  "ch": {
+    "iso2": "ch",
+    "iso3": "che",
+    "name": "Switzerland",
+    "capital": "Bern",
+    "flag": "🇨🇭",
+    "lat": 46.9481,
+    "lng": 7.4474
+  },
+  "ua": {
+    "iso2": "ua",
+    "iso3": "ukr",
+    "name": "Ukraine",
+    "capital": "Kyiv",
+    "flag": "🇺🇦",
+    "lat": 50.4501,
+    "lng": 30.5234
+  },
+  "gb": {
+    "iso2": "gb",
+    "iso3": "gbr",
+    "name": "United Kingdom",
+    "capital": "London",
+    "flag": "🇬🇧",
+    "lat": 51.5074,
+    "lng": -0.1278
+  },
+  "va": {
+    "iso2": "va",
+    "iso3": "vat",
+    "name": "Vatican City",
+    "capital": "Vatican City",
+    "flag": "🇻🇦",
+    "lat": 41.9029,
+    "lng": 12.4534
+  },
 
-    "al": {
-      "iso2": "al",
-      "iso3": "alb",
-      "name": "Albania",
-      "capital": "Tirana",
-      "flag": "🇦🇱",
-      "lat": 41.3275,
-      "lng": 19.8189
-    },
-    "ad": {
-      "iso2": "ad",
-      "iso3": "and",
-      "name": "Andorra",
-      "capital": "Andorra la Vella",
-      "flag": "🇦🇩",
-      "lat": 42.5078,
-      "lng": 1.5211
-    },
-    "at": {
-      "iso2": "at",
-      "iso3": "aut",
-      "name": "Austria",
-      "capital": "Vienna",
-      "flag": "🇦🇹",
-      "lat": 48.2082,
-      "lng": 16.3738
-    },
-    "by": {
-      "iso2": "by",
-      "iso3": "blr",
-      "name": "Belarus",
-      "capital": "Minsk",
-      "flag": "🇧🇾",
-      "lat": 53.9045,
-      "lng": 27.5615
-    },
-    "be": {
-      "iso2": "be",
-      "iso3": "bel",
-      "name": "Belgium",
-      "capital": "Brussels",
-      "flag": "🇧🇪",
-      "lat": 50.8503,
-      "lng": 4.3517
-    },
-    "ba": {
-      "iso2": "ba",
-      "iso3": "bih",
-      "name": "Bosnia and Herzegovina",
-      "capital": "Sarajevo",
-      "flag": "🇧🇦",
-      "lat": 43.8563,
-      "lng": 18.4131
-    },
-    "bg": {
-      "iso2": "bg",
-      "iso3": "bgr",
-      "name": "Bulgaria",
-      "capital": "Sofia",
-      "flag": "🇧🇬",
-      "lat": 42.6977,
-      "lng": 23.3219
-    },
-    "hr": {
-      "iso2": "hr",
-      "iso3": "hrv",
-      "name": "Croatia",
-      "capital": "Zagreb",
-      "flag": "🇭🇷",
-      "lat": 45.815,
-      "lng": 15.9819
-    },
-    "cy": {
-      "iso2": "cy",
-      "iso3": "cyp",
-      "name": "Cyprus",
-      "capital": "Nicosia",
-      "flag": "🇨🇾",
-      "lat": 35.1856,
-      "lng": 33.3823
-    },
-    "cz": {
-      "iso2": "cz",
-      "iso3": "cze",
-      "name": "Czech Republic",
-      "capital": "Prague",
-      "flag": "🇨🇿",
-      "lat": 50.0755,
-      "lng": 14.4378
-    },
-    "dk": {
-      "iso2": "dk",
-      "iso3": "dnk",
-      "name": "Denmark",
-      "capital": "Copenhagen",
-      "flag": "🇩🇰",
-      "lat": 55.6761,
-      "lng": 12.5683
-    },
-    "ee": {
-      "iso2": "ee",
-      "iso3": "est",
-      "name": "Estonia",
-      "capital": "Tallinn",
-      "flag": "🇪🇪",
-      "lat": 59.437,
-      "lng": 24.7535
-    },
-    "fi": {
-      "iso2": "fi",
-      "iso3": "fin",
-      "name": "Finland",
-      "capital": "Helsinki",
-      "flag": "🇫🇮",
-      "lat": 60.1695,
-      "lng": 24.9354
-    },
-    "fr": {
-      "iso2": "fr",
-      "iso3": "fra",
-      "name": "France",
-      "capital": "Paris",
-      "flag": "🇫🇷",
-      "lat": 48.8566,
-      "lng": 2.3522
-    },
-    "ge": {
-      "iso2": "ge",
-      "iso3": "geo",
-      "name": "Georgia",
-      "capital": "Tbilisi",
-      "flag": "🇬🇪",
-      "lat": 41.7151,
-      "lng": 44.8271
-    },
-    "de": {
-      "iso2": "de",
-      "iso3": "deu",
-      "name": "Germany",
-      "capital": "Berlin",
-      "flag": "🇩🇪",
-      "lat": 52.52,
-      "lng": 13.405
-    },
-    "gr": {
-      "iso2": "gr",
-      "iso3": "grc",
-      "name": "Greece",
-      "capital": "Athens",
-      "flag": "🇬🇷",
-      "lat": 37.9838,
-      "lng": 23.7275
-    },
-    "hu": {
-      "iso2": "hu",
-      "iso3": "hun",
-      "name": "Hungary",
-      "capital": "Budapest",
-      "flag": "🇭🇺",
-      "lat": 47.4979,
-      "lng": 19.0402
-    },
-    "is": {
-      "iso2": "is",
-      "iso3": "isl",
-      "name": "Iceland",
-      "capital": "Reykjavik",
-      "flag": "🇮🇸",
-      "lat": 64.1355,
-      "lng": -21.8954
-    },
-    "ie": {
-      "iso2": "ie",
-      "iso3": "irl",
-      "name": "Ireland",
-      "capital": "Dublin",
-      "flag": "🇮🇪",
-      "lat": 53.3498,
-      "lng": -6.2603
-    },
-    "it": {
-      "iso2": "it",
-      "iso3": "ita",
-      "name": "Italy",
-      "capital": "Rome",
-      "flag": "🇮🇹",
-      "lat": 41.9028,
-      "lng": 12.4964
-    },
-    "lv": {
-      "iso2": "lv",
-      "iso3": "lva",
-      "name": "Latvia",
-      "capital": "Riga",
-      "flag": "🇱🇻",
-      "lat": 56.9496,
-      "lng": 24.1052
-    },
-    "li": {
-      "iso2": "li",
-      "iso3": "lie",
-      "name": "Liechtenstein",
-      "capital": "Vaduz",
-      "flag": "🇱🇮",
-      "lat": 47.141,
-      "lng": 9.5209
-    },
-    "lt": {
-      "iso2": "lt",
-      "iso3": "ltu",
-      "name": "Lithuania",
-      "capital": "Vilnius",
-      "flag": "🇱🇹",
-      "lat": 54.6872,
-      "lng": 25.2797
-    },
-    "lu": {
-      "iso2": "lu",
-      "iso3": "lux",
-      "name": "Luxembourg",
-      "capital": "Luxembourg City",
-      "flag": "🇱🇺",
-      "lat": 49.6117,
-      "lng": 6.13
-    },
-    "mt": {
-      "iso2": "mt",
-      "iso3": "mlt",
-      "name": "Malta",
-      "capital": "Valletta",
-      "flag": "🇲🇹",
-      "lat": 35.897,
-      "lng": 14.5126
-    },
-    "md": {
-      "iso2": "md",
-      "iso3": "mda",
-      "name": "Moldova",
-      "capital": "Chișinău",
-      "flag": "🇲🇩",
-      "lat": 47.0105,
-      "lng": 28.8638
-    },
-    "mc": {
-      "iso2": "mc",
-      "iso3": "mco",
-      "name": "Monaco",
-      "capital": "Monaco",
-      "flag": "🇲🇨",
-      "lat": 43.7384,
-      "lng": 7.4246
-    },
-    "me": {
-      "iso2": "me",
-      "iso3": "mne",
-      "name": "Montenegro",
-      "capital": "Podgorica",
-      "flag": "🇲🇪",
-      "lat": 42.4413,
-      "lng": 19.2636
-    },
-    "nl": {
-      "iso2": "nl",
-      "iso3": "nld",
-      "name": "Netherlands",
-      "capital": "Amsterdam",
-      "flag": "🇳🇱",
-      "lat": 52.3676,
-      "lng": 4.9041
-    },
-    "mk": {
-      "iso2": "mk",
-      "iso3": "mkd",
-      "name": "North Macedonia",
-      "capital": "Skopje",
-      "flag": "🇲🇰",
-      "lat": 41.9973,
-      "lng": 21.428
-    },
-    "no": {
-      "iso2": "no",
-      "iso3": "nor",
-      "name": "Norway",
-      "capital": "Oslo",
-      "flag": "🇳🇴",
-      "lat": 59.9139,
-      "lng": 10.7522
-    },
-    "pl": {
-      "iso2": "pl",
-      "iso3": "pol",
-      "name": "Poland",
-      "capital": "Warsaw",
-      "flag": "🇵🇱",
-      "lat": 52.2297,
-      "lng": 21.0122
-    },
-    "pt": {
-      "iso2": "pt",
-      "iso3": "prt",
-      "name": "Portugal",
-      "capital": "Lisbon",
-      "flag": "🇵🇹",
-      "lat": 38.7223,
-      "lng": -9.1393
-    },
-    "ro": {
-      "iso2": "ro",
-      "iso3": "rou",
-      "name": "Romania",
-      "capital": "Bucharest",
-      "flag": "🇷🇴",
-      "lat": 44.4268,
-      "lng": 26.1025
-    },
-    "ru": {
-      "iso2": "ru",
-      "iso3": "rus",
-      "name": "Russia",
-      "capital": "Moscow",
-      "flag": "🇷🇺",
-      "lat": 55.7558,
-      "lng": 37.6176
-    },
-    "sm": {
-      "iso2": "sm",
-      "iso3": "smr",
-      "name": "San Marino",
-      "capital": "San Marino",
-      "flag": "🇸🇲",
-      "lat": 43.9333,
-      "lng": 12.45
-    },
-    "rs": {
-      "iso2": "rs",
-      "iso3": "srb",
-      "name": "Serbia",
-      "capital": "Belgrade",
-      "flag": "🇷🇸",
-      "lat": 44.7866,
-      "lng": 20.4489
-    },
-    "sk": {
-      "iso2": "sk",
-      "iso3": "svk",
-      "name": "Slovakia",
-      "capital": "Bratislava",
-      "flag": "🇸🇰",
-      "lat": 48.1486,
-      "lng": 17.1077
-    },
-    "si": {
-      "iso2": "si",
-      "iso3": "svn",
-      "name": "Slovenia",
-      "capital": "Ljubljana",
-      "flag": "🇸🇮",
-      "lat": 46.0569,
-      "lng": 14.5058
-    },
-    "es": {
-      "iso2": "es",
-      "iso3": "esp",
-      "name": "Spain",
-      "capital": "Madrid",
-      "flag": "🇪🇸",
-      "lat": 40.4168,
-      "lng": -3.7038
-    },
-    "se": {
-      "iso2": "se",
-      "iso3": "swe",
-      "name": "Sweden",
-      "capital": "Stockholm",
-      "flag": "🇸🇪",
-      "lat": 59.3293,
-      "lng": 18.0686
-    },
-    "ch": {
-      "iso2": "ch",
-      "iso3": "che",
-      "name": "Switzerland",
-      "capital": "Bern",
-      "flag": "🇨🇭",
-      "lat": 46.9481,
-      "lng": 7.4474
-    },
-    "ua": {
-      "iso2": "ua",
-      "iso3": "ukr",
-      "name": "Ukraine",
-      "capital": "Kyiv",
-      "flag": "🇺🇦",
-      "lat": 50.4501,
-      "lng": 30.5234
-    },
-    "gb": {
-      "iso2": "gb",
-      "iso3": "gbr",
-      "name": "United Kingdom",
-      "capital": "London",
-      "flag": "🇬🇧",
-      "lat": 51.5074,
-      "lng": -0.1278
-    },
-    "va": {
-      "iso2": "va",
-      "iso3": "vat",
-      "name": "Vatican City",
-      "capital": "Vatican City",
-      "flag": "🇻🇦",
-      "lat": 41.9029,
-      "lng": 12.4534
-    }
+  "dz": {
+    "iso2": "dz",
+    "iso3": "dza",
+    "name": "Algeria",
+    "capital": "Algiers",
+    "flag": "🇩🇿",
+    "lat": 36.7529,
+    "lng": 3.042
+  },
+  "ao": {
+    "iso2": "ao",
+    "iso3": "ago",
+    "name": "Angola",
+    "capital": "Luanda",
+    "flag": "🇦🇴",
+    "lat": -8.839,
+    "lng": 13.2894
+  },
+  "bj": {
+    "iso2": "bj",
+    "iso3": "ben",
+    "name": "Benin",
+    "capital": "Porto-Novo",
+    "flag": "🇧🇯",
+    "lat": 6.4969,
+    "lng": 2.6289
+  },
+  "bw": {
+    "iso2": "bw",
+    "iso3": "bwa",
+    "name": "Botswana",
+    "capital": "Gaborone",
+    "flag": "🇧🇼",
+    "lat": -24.6282,
+    "lng": 25.9231
+  },
+  "bf": {
+    "iso2": "bf",
+    "iso3": "bfa",
+    "name": "Burkina Faso",
+    "capital": "Ouagadougou",
+    "flag": "🇧🇫",
+    "lat": 12.3714,
+    "lng": -1.5197
+  },
+  "bi": {
+    "iso2": "bi",
+    "iso3": "bdi",
+    "name": "Burundi",
+    "capital": "Gitega",
+    "flag": "🇧🇮",
+    "lat": -3.4284,
+    "lng": 29.9246
+  },
+  "cv": {
+    "iso2": "cv",
+    "iso3": "cpv",
+    "name": "Cape Verde",
+    "capital": "Praia",
+    "flag": "🇨🇻",
+    "lat": 14.9331,
+    "lng": -23.5133
+  },
+  "cm": {
+    "iso2": "cm",
+    "iso3": "cmr",
+    "name": "Cameroon",
+    "capital": "Yaoundé",
+    "flag": "🇨🇲",
+    "lat": 3.848,
+    "lng": 11.5021
+  },
+  "cf": {
+    "iso2": "cf",
+    "iso3": "caf",
+    "name": "Central African Republic",
+    "capital": "Bangui",
+    "flag": "🇨🇫",
+    "lat": 4.3947,
+    "lng": 18.5582
+  },
+  "td": {
+    "iso2": "td",
+    "iso3": "tcd",
+    "name": "Chad",
+    "capital": "N'Djamena",
+    "flag": "🇹🇩",
+    "lat": 12.1348,
+    "lng": 15.0557
+  },
+  "km": {
+    "iso2": "km",
+    "iso3": "com",
+    "name": "Comoros",
+    "capital": "Moroni",
+    "flag": "🇰🇲",
+    "lat": -11.6455,
+    "lng": 43.3333
+  },
+  "cd": {
+    "iso2": "cd",
+    "iso3": "cod",
+    "name": "Congo (Kinshasa)",
+    "capital": "Kinshasa",
+    "flag": "🇨🇩",
+    "lat": -4.4419,
+    "lng": 15.2663
+  },
+  "cg": {
+    "iso2": "cg",
+    "iso3": "cog",
+    "name": "Congo (Brazzaville)",
+    "capital": "Brazzaville",
+    "flag": "🇨🇬",
+    "lat": -4.2634,
+    "lng": 15.2429
+  },
+  "ci": {
+    "iso2": "ci",
+    "iso3": "civ",
+    "name": "Côte d'Ivoire",
+    "capital": "Yamoussoukro",
+    "flag": "🇨🇮",
+    "lat": 6.8276,
+    "lng": -5.2893
+  },
+  "dj": {
+    "iso2": "dj",
+    "iso3": "dji",
+    "name": "Djibouti",
+    "capital": "Djibouti",
+    "flag": "🇩🇯",
+    "lat": 11.588,
+    "lng": 43.1456
+  },
+  "eg": {
+    "iso2": "eg",
+    "iso3": "egy",
+    "name": "Egypt",
+    "capital": "Cairo",
+    "flag": "🇪🇬",
+    "lat": 30.0444,
+    "lng": 31.2357
+  },
+  "gq": {
+    "iso2": "gq",
+    "iso3": "gnq",
+    "name": "Equatorial Guinea",
+    "capital": "Malabo",
+    "flag": "🇬🇶",
+    "lat": 3.7523,
+    "lng": 8.774
+  },
+  "er": {
+    "iso2": "er",
+    "iso3": "eri",
+    "name": "Eritrea",
+    "capital": "Asmara",
+    "flag": "🇪🇷",
+    "lat": 15.3229,
+    "lng": 38.9251
+  },
+  "sz": {
+    "iso2": "sz",
+    "iso3": "swz",
+    "name": "Eswatini",
+    "capital": "Mbabane",
+    "flag": "🇸🇿",
+    "lat": -26.3054,
+    "lng": 31.1367
+  },
+  "et": {
+    "iso2": "et",
+    "iso3": "eth",
+    "name": "Ethiopia",
+    "capital": "Addis Ababa",
+    "flag": "🇪🇹",
+    "lat": 9.03,
+    "lng": 38.74
+  },
+  "ga": {
+    "iso2": "ga",
+    "iso3": "gab",
+    "name": "Gabon",
+    "capital": "Libreville",
+    "flag": "🇬🇦",
+    "lat": 0.4162,
+    "lng": 9.4673
+  },
+  "gm": {
+    "iso2": "gm",
+    "iso3": "gmb",
+    "name": "Gambia",
+    "capital": "Banjul",
+    "flag": "🇬🇲",
+    "lat": 13.4549,
+    "lng": -16.579
+  },
+  "gh": {
+    "iso2": "gh",
+    "iso3": "gha",
+    "name": "Ghana",
+    "capital": "Accra",
+    "flag": "🇬🇭",
+    "lat": 5.6037,
+    "lng": -0.187
+  },
+  "gn": {
+    "iso2": "gn",
+    "iso3": "gin",
+    "name": "Guinea",
+    "capital": "Conakry",
+    "flag": "🇬🇳",
+    "lat": 9.6412,
+    "lng": -13.5784
+  },
+  "gw": {
+    "iso2": "gw",
+    "iso3": "gnb",
+    "name": "Guinea-Bissau",
+    "capital": "Bissau",
+    "flag": "🇬🇼",
+    "lat": 11.8594,
+    "lng": -15.595
+  },
+  "ke": {
+    "iso2": "ke",
+    "iso3": "ken",
+    "name": "Kenya",
+    "capital": "Nairobi",
+    "flag": "🇰🇪",
+    "lat": -1.2864,
+    "lng": 36.8172
+  },
+  "ls": {
+    "iso2": "ls",
+    "iso3": "lso",
+    "name": "Lesotho",
+    "capital": "Maseru",
+    "flag": "🇱🇸",
+    "lat": -29.3156,
+    "lng": 27.486
+  },
+  "lr": {
+    "iso2": "lr",
+    "iso3": "lbr",
+    "name": "Liberia",
+    "capital": "Monrovia",
+    "flag": "🇱🇷",
+    "lat": 6.3156,
+    "lng": -10.8077
+  },
+  "ly": {
+    "iso2": "ly",
+    "iso3": "lby",
+    "name": "Libya",
+    "capital": "Tripoli",
+    "flag": "🇱🇾",
+    "lat": 32.8872,
+    "lng": 13.1913
+  },
+  "mg": {
+    "iso2": "mg",
+    "iso3": "mdg",
+    "name": "Madagascar",
+    "capital": "Antananarivo",
+    "flag": "🇲🇬",
+    "lat": -18.8792,
+    "lng": 47.5079
+  },
+  "mw": {
+    "iso2": "mw",
+    "iso3": "mwi",
+    "name": "Malawi",
+    "capital": "Lilongwe",
+    "flag": "🇲🇼",
+    "lat": -13.9626,
+    "lng": 33.7741
+  },
+  "ml": {
+    "iso2": "ml",
+    "iso3": "mli",
+    "name": "Mali",
+    "capital": "Bamako",
+    "flag": "🇲🇱",
+    "lat": 12.6392,
+    "lng": -8.0029
+  },
+  "mr": {
+    "iso2": "mr",
+    "iso3": "mrt",
+    "name": "Mauritania",
+    "capital": "Nouakchott",
+    "flag": "🇲🇷",
+    "lat": 18.0735,
+    "lng": -15.9582
+  },
+  "mu": {
+    "iso2": "mu",
+    "iso3": "mus",
+    "name": "Mauritius",
+    "capital": "Port Louis",
+    "flag": "🇲🇺",
+    "lat": -20.1609,
+    "lng": 57.5012
+  },
+  "ma": {
+    "iso2": "ma",
+    "iso3": "mar",
+    "name": "Morocco",
+    "capital": "Rabat",
+    "flag": "🇲🇦",
+    "lat": 34.0209,
+    "lng": -6.8417
+  },
+  "mz": {
+    "iso2": "mz",
+    "iso3": "moz",
+    "name": "Mozambique",
+    "capital": "Maputo",
+    "flag": "🇲🇿",
+    "lat": -25.9537,
+    "lng": 32.5887
+  },
+  "na": {
+    "iso2": "na",
+    "iso3": "nam",
+    "name": "Namibia",
+    "capital": "Windhoek",
+    "flag": "🇳🇦",
+    "lat": -22.5609,
+    "lng": 17.0658
+  },
+  "ne": {
+    "iso2": "ne",
+    "iso3": "ner",
+    "name": "Niger",
+    "capital": "Niamey",
+    "flag": "🇳🇪",
+    "lat": 13.5126,
+    "lng": 2.1126
+  },
+  "ng": {
+    "iso2": "ng",
+    "iso3": "nga",
+    "name": "Nigeria",
+    "capital": "Abuja",
+    "flag": "🇳🇬",
+    "lat": 9.0579,
+    "lng": 7.4951
+  },
+  "rw": {
+    "iso2": "rw",
+    "iso3": "rwa",
+    "name": "Rwanda",
+    "capital": "Kigali",
+    "flag": "🇷🇼",
+    "lat": -1.9706,
+    "lng": 30.1044
+  },
+  "st": {
+    "iso2": "st",
+    "iso3": "stp",
+    "name": "São Tomé and Príncipe",
+    "capital": "São Tomé",
+    "flag": "🇸🇹",
+    "lat": 0.3365,
+    "lng": 6.7273
+  },
+  "sn": {
+    "iso2": "sn",
+    "iso3": "sen",
+    "name": "Senegal",
+    "capital": "Dakar",
+    "flag": "🇸🇳",
+    "lat": 14.6928,
+    "lng": -17.4467
+  },
+  "sc": {
+    "iso2": "sc",
+    "iso3": "syc",
+    "name": "Seychelles",
+    "capital": "Victoria",
+    "flag": "🇸🇨",
+    "lat": -4.6191,
+    "lng": 55.4513
+  },
+  "sl": {
+    "iso2": "sl",
+    "iso3": "sle",
+    "name": "Sierra Leone",
+    "capital": "Freetown",
+    "flag": "🇸🇱",
+    "lat": 8.4657,
+    "lng": -13.2317
+  },
+  "so": {
+    "iso2": "so",
+    "iso3": "som",
+    "name": "Somalia",
+    "capital": "Mogadishu",
+    "flag": "🇸🇴",
+    "lat": 2.0469,
+    "lng": 45.3182
+  },
+  "za": {
+    "iso2": "za",
+    "iso3": "zaf",
+    "name": "South Africa",
+    "capital": "Pretoria",
+    "flag": "🇿🇦",
+    "lat": -25.7479,
+    "lng": 28.2293
+  },
+  "ss": {
+    "iso2": "ss",
+    "iso3": "ssd",
+    "name": "South Sudan",
+    "capital": "Juba",
+    "flag": "🇸🇸",
+    "lat": 4.8594,
+    "lng": 31.5713
+  },
+  "sd": {
+    "iso2": "sd",
+    "iso3": "sdn",
+    "name": "Sudan",
+    "capital": "Khartoum",
+    "flag": "🇸🇩",
+    "lat": 15.5007,
+    "lng": 32.5599
+  },
+  "tz": {
+    "iso2": "tz",
+    "iso3": "tza",
+    "name": "Tanzania",
+    "capital": "Dodoma",
+    "flag": "🇹🇿",
+    "lat": -6.163,
+    "lng": 35.7516
+  },
+  "tg": {
+    "iso2": "tg",
+    "iso3": "tgo",
+    "name": "Togo",
+    "capital": "Lomé",
+    "flag": "🇹🇬",
+    "lat": 6.1319,
+    "lng": 1.2228
+  },
+  "tn": {
+    "iso2": "tn",
+    "iso3": "tun",
+    "name": "Tunisia",
+    "capital": "Tunis",
+    "flag": "🇹🇳",
+    "lat": 36.8065,
+    "lng": 10.1815
+  },
+  "ug": {
+    "iso2": "ug",
+    "iso3": "uga",
+    "name": "Uganda",
+    "capital": "Kampala",
+    "flag": "🇺🇬",
+    "lat": 0.3476,
+    "lng": 32.5825
+  },
+  "zm": {
+    "iso2": "zm",
+    "iso3": "zmb",
+    "name": "Zambia",
+    "capital": "Lusaka",
+    "flag": "🇿🇲",
+    "lat": -15.3875,
+    "lng": 28.3228
+  },
+  "zw": {
+    "iso2": "zw",
+    "iso3": "zwe",
+    "name": "Zimbabwe",
+    "capital": "Harare",
+    "flag": "🇿🇼",
+    "lat": -17.8252,
+    "lng": 31.0335
   }
-  
+}

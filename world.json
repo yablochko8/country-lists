@@ -8,24 +8,6 @@
     "lat": 39.9042,
     "lng": 116.4074
   },
-  "br": {
-    "iso2": "br",
-    "iso3": "bra",
-    "name": "Brazil",
-    "capital": "Brasília",
-    "flag": "🇧🇷",
-    "lat": -15.7942,
-    "lng": -47.8825
-  },
-  "us": {
-    "iso2": "us",
-    "iso3": "usa",
-    "name": "United States",
-    "capital": "Washington, D.C.",
-    "flag": "🇺🇸",
-    "lat": 38.9072,
-    "lng": -77.0369
-  },
   "in": {
     "iso2": "in",
     "iso3": "ind",
@@ -946,5 +928,321 @@
     "flag": "🇿🇼",
     "lat": -17.8252,
     "lng": 31.0335
+  },
+
+  "ag": {
+    "iso2": "ag",
+    "iso3": "atg",
+    "name": "Antigua and Barbuda",
+    "capital": "Saint John's",
+    "flag": "🇦🇬",
+    "lat": 17.1274,
+    "lng": -61.8468
+  },
+  "ar": {
+    "iso2": "ar",
+    "iso3": "arg",
+    "name": "Argentina",
+    "capital": "Buenos Aires",
+    "flag": "🇦🇷",
+    "lat": -34.6037,
+    "lng": -58.3816
+  },
+  "bs": {
+    "iso2": "bs",
+    "iso3": "bhs",
+    "name": "Bahamas",
+    "capital": "Nassau",
+    "flag": "🇧🇸",
+    "lat": 25.0343,
+    "lng": -77.3963
+  },
+  "bb": {
+    "iso2": "bb",
+    "iso3": "brb",
+    "name": "Barbados",
+    "capital": "Bridgetown",
+    "flag": "🇧🇧",
+    "lat": 13.0975,
+    "lng": -59.6168
+  },
+  "bz": {
+    "iso2": "bz",
+    "iso3": "blz",
+    "name": "Belize",
+    "capital": "Belmopan",
+    "flag": "🇧🇿",
+    "lat": 17.2511,
+    "lng": -88.759
+  },
+  "bo": {
+    "iso2": "bo",
+    "iso3": "bol",
+    "name": "Bolivia",
+    "capital": "Sucre",
+    "flag": "🇧🇴",
+    "lat": -19.0196,
+    "lng": -65.2619
+  },
+  "br": {
+    "iso2": "br",
+    "iso3": "bra",
+    "name": "Brazil",
+    "capital": "Brasília",
+    "flag": "🇧🇷",
+    "lat": -15.7942,
+    "lng": -47.8825
+  },
+  "ca": {
+    "iso2": "ca",
+    "iso3": "can",
+    "name": "Canada",
+    "capital": "Ottawa",
+    "flag": "🇨🇦",
+    "lat": 45.4215,
+    "lng": -75.6972
+  },
+  "cl": {
+    "iso2": "cl",
+    "iso3": "chl",
+    "name": "Chile",
+    "capital": "Santiago",
+    "flag": "🇨🇱",
+    "lat": -33.4489,
+    "lng": -70.6693
+  },
+  "co": {
+    "iso2": "co",
+    "iso3": "col",
+    "name": "Colombia",
+    "capital": "Bogotá",
+    "flag": "🇨🇴",
+    "lat": 4.711,
+    "lng": -74.0721
+  },
+  "cr": {
+    "iso2": "cr",
+    "iso3": "cri",
+    "name": "Costa Rica",
+    "capital": "San José",
+    "flag": "🇨🇷",
+    "lat": 9.9281,
+    "lng": -84.0907
+  },
+  "cu": {
+    "iso2": "cu",
+    "iso3": "cub",
+    "name": "Cuba",
+    "capital": "Havana",
+    "flag": "🇨🇺",
+    "lat": 23.1136,
+    "lng": -82.3666
+  },
+  "dm": {
+    "iso2": "dm",
+    "iso3": "dma",
+    "name": "Dominica",
+    "capital": "Roseau",
+    "flag": "🇩🇲",
+    "lat": 15.3092,
+    "lng": -61.3794
+  },
+  "do": {
+    "iso2": "do",
+    "iso3": "dom",
+    "name": "Dominican Republic",
+    "capital": "Santo Domingo",
+    "flag": "🇩🇴",
+    "lat": 18.4861,
+    "lng": -69.9312
+  },
+  "ec": {
+    "iso2": "ec",
+    "iso3": "ecu",
+    "name": "Ecuador",
+    "capital": "Quito",
+    "flag": "🇪🇨",
+    "lat": -0.1807,
+    "lng": -78.4678
+  },
+  "sv": {
+    "iso2": "sv",
+    "iso3": "slv",
+    "name": "El Salvador",
+    "capital": "San Salvador",
+    "flag": "🇸🇻",
+    "lat": 13.6929,
+    "lng": -89.2182
+  },
+  "gd": {
+    "iso2": "gd",
+    "iso3": "grd",
+    "name": "Grenada",
+    "capital": "St. George's",
+    "flag": "🇬🇩",
+    "lat": 12.0561,
+    "lng": -61.7486
+  },
+  "gt": {
+    "iso2": "gt",
+    "iso3": "gtm",
+    "name": "Guatemala",
+    "capital": "Guatemala City",
+    "flag": "🇬🇹",
+    "lat": 14.6349,
+    "lng": -90.5069
+  },
+  "gy": {
+    "iso2": "gy",
+    "iso3": "guy",
+    "name": "Guyana",
+    "capital": "Georgetown",
+    "flag": "🇬🇾",
+    "lat": 6.8013,
+    "lng": -58.1551
+  },
+  "ht": {
+    "iso2": "ht",
+    "iso3": "hti",
+    "name": "Haiti",
+    "capital": "Port-au-Prince",
+    "flag": "🇭🇹",
+    "lat": 18.5944,
+    "lng": -72.3074
+  },
+  "hn": {
+    "iso2": "hn",
+    "iso3": "hnd",
+    "name": "Honduras",
+    "capital": "Tegucigalpa",
+    "flag": "🇭🇳",
+    "lat": 14.0723,
+    "lng": -87.1921
+  },
+  "jm": {
+    "iso2": "jm",
+    "iso3": "jam",
+    "name": "Jamaica",
+    "capital": "Kingston",
+    "flag": "🇯🇲",
+    "lat": 18.0179,
+    "lng": -76.8099
+  },
+  "mx": {
+    "iso2": "mx",
+    "iso3": "mex",
+    "name": "Mexico",
+    "capital": "Mexico City",
+    "flag": "🇲🇽",
+    "lat": 19.4326,
+    "lng": -99.1332
+  },
+  "ni": {
+    "iso2": "ni",
+    "iso3": "nic",
+    "name": "Nicaragua",
+    "capital": "Managua",
+    "flag": "🇳🇮",
+    "lat": 12.1364,
+    "lng": -86.2514
+  },
+  "pa": {
+    "iso2": "pa",
+    "iso3": "pan",
+    "name": "Panama",
+    "capital": "Panama City",
+    "flag": "🇵🇦",
+    "lat": 8.9824,
+    "lng": -79.5199
+  },
+  "py": {
+    "iso2": "py",
+    "iso3": "pry",
+    "name": "Paraguay",
+    "capital": "Asunción",
+    "flag": "🇵🇾",
+    "lat": -25.2637,
+    "lng": -57.5759
+  },
+  "pe": {
+    "iso2": "pe",
+    "iso3": "per",
+    "name": "Peru",
+    "capital": "Lima",
+    "flag": "🇵🇪",
+    "lat": -12.0464,
+    "lng": -77.0428
+  },
+  "kn": {
+    "iso2": "kn",
+    "iso3": "kna",
+    "name": "Saint Kitts and Nevis",
+    "capital": "Basseterre",
+    "flag": "🇰🇳",
+    "lat": 17.3026,
+    "lng": -62.7177
+  },
+  "lc": {
+    "iso2": "lc",
+    "iso3": "lca",
+    "name": "Saint Lucia",
+    "capital": "Castries",
+    "flag": "🇱🇨",
+    "lat": 14.0101,
+    "lng": -60.9875
+  },
+  "vc": {
+    "iso2": "vc",
+    "iso3": "vct",
+    "name": "Saint Vincent and the Grenadines",
+    "capital": "Kingstown",
+    "flag": "🇻🇨",
+    "lat": 13.1578,
+    "lng": -61.2255
+  },
+  "sr": {
+    "iso2": "sr",
+    "iso3": "sur",
+    "name": "Suriname",
+    "capital": "Paramaribo",
+    "flag": "🇸🇷",
+    "lat": 5.852,
+    "lng": -55.2038
+  },
+  "tt": {
+    "iso2": "tt",
+    "iso3": "tto",
+    "name": "Trinidad and Tobago",
+    "capital": "Port of Spain",
+    "flag": "🇹🇹",
+    "lat": 10.6549,
+    "lng": -61.5019
+  },
+  "us": {
+    "iso2": "us",
+    "iso3": "usa",
+    "name": "United States",
+    "capital": "Washington, D.C.",
+    "flag": "🇺🇸",
+    "lat": 38.9072,
+    "lng": -77.0369
+  },
+  "uy": {
+    "iso2": "uy",
+    "iso3": "ury",
+    "name": "Uruguay",
+    "capital": "Montevideo",
+    "flag": "🇺🇾",
+    "lat": -34.9011,
+    "lng": -56.1645
+  },
+  "ve": {
+    "iso2": "ve",
+    "iso3": "ven",
+    "name": "Venezuela",
+    "capital": "Caracas",
+    "flag": "🇻🇪",
+    "lat": 10.4806,
+    "lng": -66.9036
   }
 }

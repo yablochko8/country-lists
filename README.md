@@ -1,2 +1,5 @@
-# json-country-list-with-flags
+# Contents
 
+Country lists. So far just:
+
+JSON world list.

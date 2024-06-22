@@ -1,17 +1,8 @@
 {
-  "af1": {
+  "af": {
     "iso2": "af",
     "iso3": "afg",
-    "name": "Kandahar, Afghanistan",
-    "capital": "Kabul",
-    "flag": "🇦🇫",
-    "lat": 34.5281,
-    "lng": 69.1723
-  },
-  "af2": {
-    "iso2": "af",
-    "iso3": "afg",
-    "name": "Kabul, Afghanistan",
+    "name": "Afghanistan",
     "capital": "Kabul",
     "flag": "🇦🇫",
     "lat": 34.5281,

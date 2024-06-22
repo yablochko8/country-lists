@@ -1,4 +1,76 @@
 {
+  "af": {
+    "iso2": "af",
+    "iso3": "afg",
+    "name": "Afghanistan",
+    "capital": "Kabul",
+    "flag": "🇦🇫",
+    "lat": 34.5281,
+    "lng": 69.1723
+  },
+  "am": {
+    "iso2": "am",
+    "iso3": "arm",
+    "name": "Armenia",
+    "capital": "Yerevan",
+    "flag": "🇦🇲",
+    "lat": 40.1792,
+    "lng": 44.4991
+  },
+  "az": {
+    "iso2": "az",
+    "iso3": "aze",
+    "name": "Azerbaijan",
+    "capital": "Baku",
+    "flag": "🇦🇿",
+    "lat": 40.4093,
+    "lng": 49.8671
+  },
+  "bh": {
+    "iso2": "bh",
+    "iso3": "bhr",
+    "name": "Bahrain",
+    "capital": "Manama",
+    "flag": "🇧🇭",
+    "lat": 26.2235,
+    "lng": 50.5876
+  },
+  "bd": {
+    "iso2": "bd",
+    "iso3": "bgd",
+    "name": "Bangladesh",
+    "capital": "Dhaka",
+    "flag": "🇧🇩",
+    "lat": 23.8103,
+    "lng": 90.4125
+  },
+  "bt": {
+    "iso2": "bt",
+    "iso3": "btn",
+    "name": "Bhutan",
+    "capital": "Thimphu",
+    "flag": "🇧🇹",
+    "lat": 27.4728,
+    "lng": 89.639
+  },
+  "bn": {
+    "iso2": "bn",
+    "iso3": "brn",
+    "name": "Brunei",
+    "capital": "Bandar Seri Begawan",
+    "flag": "🇧🇳",
+    "lat": 4.9031,
+    "lng": 114.9398
+  },
+  "kh": {
+    "iso2": "kh",
+    "iso3": "khm",
+    "name": "Cambodia",
+    "capital": "Phnom Penh",
+    "flag": "🇰🇭",
+    "lat": 11.5564,
+    "lng": 104.9282
+  },
   "cn": {
     "iso2": "cn",
     "iso3": "chn",
@@ -17,7 +89,42 @@
     "lat": 28.6139,
     "lng": 77.209
   },
-
+  "id": {
+    "iso2": "id",
+    "iso3": "idn",
+    "name": "Indonesia",
+    "capital": "Jakarta",
+    "flag": "🇮🇩",
+    "lat": -6.2088,
+    "lng": 106.8456
+  },
+  "ir": {
+    "iso2": "ir",
+    "iso3": "irn",
+    "name": "Iran",
+    "capital": "Tehran",
+    "flag": "🇮🇷",
+    "lat": 35.6892,
+    "lng": 51.389
+  },
+  "iq": {
+    "iso2": "iq",
+    "iso3": "irq",
+    "name": "Iraq",
+    "capital": "Baghdad",
+    "flag": "🇮🇶",
+    "lat": 33.3152,
+    "lng": 44.3661
+  },
+  "il": {
+    "iso2": "il",
+    "iso3": "isr",
+    "name": "Israel",
+    "capital": "Jerusalem",
+    "flag": "🇮🇱",
+    "lat": 31.7683,
+    "lng": 35.2137
+  },
   "jp": {
     "iso2": "jp",
     "iso3": "jpn",
@@ -26,6 +133,411 @@
     "flag": "🇯🇵",
     "lat": 35.6895,
     "lng": 139.6917
+  },
+  "jo": {
+    "iso2": "jo",
+    "iso3": "jor",
+    "name": "Jordan",
+    "capital": "Amman",
+    "flag": "🇯🇴",
+    "lat": 31.9539,
+    "lng": 35.9106
+  },
+  "kz": {
+    "iso2": "kz",
+    "iso3": "kaz",
+    "name": "Kazakhstan",
+    "capital": "Astana",
+    "flag": "🇰🇿",
+    "lat": 51.1694,
+    "lng": 71.4491
+  },
+  "kw": {
+    "iso2": "kw",
+    "iso3": "kwt",
+    "name": "Kuwait",
+    "capital": "Kuwait City",
+    "flag": "🇰🇼",
+    "lat": 29.3759,
+    "lng": 47.9774
+  },
+  "kg": {
+    "iso2": "kg",
+    "iso3": "kgz",
+    "name": "Kyrgyzstan",
+    "capital": "Bishkek",
+    "flag": "🇰🇬",
+    "lat": 42.8746,
+    "lng": 74.5698
+  },
+  "la": {
+    "iso2": "la",
+    "iso3": "lao",
+    "name": "Laos",
+    "capital": "Vientiane",
+    "flag": "🇱🇦",
+    "lat": 17.9757,
+    "lng": 102.6309
+  },
+  "lb": {
+    "iso2": "lb",
+    "iso3": "lbn",
+    "name": "Lebanon",
+    "capital": "Beirut",
+    "flag": "🇱🇧",
+    "lat": 33.8938,
+    "lng": 35.5018
+  },
+  "my": {
+    "iso2": "my",
+    "iso3": "mys",
+    "name": "Malaysia",
+    "capital": "Kuala Lumpur",
+    "flag": "🇲🇾",
+    "lat": 3.139,
+    "lng": 101.6869
+  },
+  "mv": {
+    "iso2": "mv",
+    "iso3": "mdv",
+    "name": "Maldives",
+    "capital": "Malé",
+    "flag": "🇲🇻",
+    "lat": 4.1755,
+    "lng": 73.5093
+  },
+  "mn": {
+    "iso2": "mn",
+    "iso3": "mng",
+    "name": "Mongolia",
+    "capital": "Ulaanbaatar",
+    "flag": "🇲🇳",
+    "lat": 47.8864,
+    "lng": 106.9057
+  },
+  "mm": {
+    "iso2": "mm",
+    "iso3": "mmr",
+    "name": "Myanmar",
+    "capital": "Naypyidaw",
+    "flag": "🇲🇲",
+    "lat": 19.7633,
+    "lng": 96.0785
+  },
+  "np": {
+    "iso2": "np",
+    "iso3": "npl",
+    "name": "Nepal",
+    "capital": "Kathmandu",
+    "flag": "🇳🇵",
+    "lat": 27.7172,
+    "lng": 85.324
+  },
+  "om": {
+    "iso2": "om",
+    "iso3": "omn",
+    "name": "Oman",
+    "capital": "Muscat",
+    "flag": "🇴🇲",
+    "lat": 23.5859,
+    "lng": 58.4059
+  },
+  "pk": {
+    "iso2": "pk",
+    "iso3": "pak",
+    "name": "Pakistan",
+    "capital": "Islamabad",
+    "flag": "🇵🇰",
+    "lat": 33.6844,
+    "lng": 73.0479
+  },
+  "ps": {
+    "iso2": "ps",
+    "iso3": "pse",
+    "name": "Palestine",
+    "capital": "Ramallah",
+    "flag": "🇵🇸",
+    "lat": 31.8996,
+    "lng": 35.2042
+  },
+  "ph": {
+    "iso2": "ph",
+    "iso3": "phl",
+    "name": "Philippines",
+    "capital": "Manila",
+    "flag": "🇵🇭",
+    "lat": 14.5995,
+    "lng": 120.9842
+  },
+  "qa": {
+    "iso2": "qa",
+    "iso3": "qat",
+    "name": "Qatar",
+    "capital": "Doha",
+    "flag": "🇶🇦",
+    "lat": 25.276,
+    "lng": 51.5204
+  },
+  "sa": {
+    "iso2": "sa",
+    "iso3": "sau",
+    "name": "Saudi Arabia",
+    "capital": "Riyadh",
+    "flag": "🇸🇦",
+    "lat": 24.7136,
+    "lng": 46.6753
+  },
+  "sg": {
+    "iso2": "sg",
+    "iso3": "sgp",
+    "name": "Singapore",
+    "capital": "Singapore",
+    "flag": "🇸🇬",
+    "lat": 1.3521,
+    "lng": 103.8198
+  },
+  "kr": {
+    "iso2": "kr",
+    "iso3": "kor",
+    "name": "South Korea",
+    "capital": "Seoul",
+    "flag": "🇰🇷",
+    "lat": 37.5665,
+    "lng": 126.978
+  },
+  "lk": {
+    "iso2": "lk",
+    "iso3": "lka",
+    "name": "Sri Lanka",
+    "capital": "Sri Jayawardenepura Kotte",
+    "flag": "🇱🇰",
+    "lat": 6.9271,
+    "lng": 79.8612
+  },
+  "sy": {
+    "iso2": "sy",
+    "iso3": "syr",
+    "name": "Syria",
+    "capital": "Damascus",
+    "flag": "🇸🇾",
+    "lat": 33.5138,
+    "lng": 36.2765
+  },
+  "tw": {
+    "iso2": "tw",
+    "iso3": "twn",
+    "name": "Taiwan",
+    "capital": "Taipei",
+    "flag": "🇹🇼",
+    "lat": 25.033,
+    "lng": 121.5654
+  },
+  "tj": {
+    "iso2": "tj",
+    "iso3": "tjk",
+    "name": "Tajikistan",
+    "capital": "Dushanbe",
+    "flag": "🇹🇯",
+    "lat": 38.5598,
+    "lng": 68.787
+  },
+  "th": {
+    "iso2": "th",
+    "iso3": "tha",
+    "name": "Thailand",
+    "capital": "Bangkok",
+    "flag": "🇹🇭",
+    "lat": 13.7563,
+    "lng": 100.5018
+  },
+  "tl": {
+    "iso2": "tl",
+    "iso3": "tls",
+    "name": "Timor-Leste",
+    "capital": "Dili",
+    "flag": "🇹🇱",
+    "lat": -8.5569,
+    "lng": 125.5603
+  },
+  "tr": {
+    "iso2": "tr",
+    "iso3": "tur",
+    "name": "Turkey",
+    "capital": "Ankara",
+    "flag": "🇹🇷",
+    "lat": 39.9334,
+    "lng": 32.8597
+  },
+  "tm": {
+    "iso2": "tm",
+    "iso3": "tkm",
+    "name": "Turkmenistan",
+    "capital": "Ashgabat",
+    "flag": "🇹🇲",
+    "lat": 37.9601,
+    "lng": 58.3261
+  },
+  "ae": {
+    "iso2": "ae",
+    "iso3": "are",
+    "name": "United Arab Emirates",
+    "capital": "Abu Dhabi",
+    "flag": "🇦🇪",
+    "lat": 24.4539,
+    "lng": 54.3773
+  },
+  "uz": {
+    "iso2": "uz",
+    "iso3": "uzb",
+    "name": "Uzbekistan",
+    "capital": "Tashkent",
+    "flag": "🇺🇿",
+    "lat": 41.2995,
+    "lng": 69.2401
+  },
+  "vn": {
+    "iso2": "vn",
+    "iso3": "vnm",
+    "name": "Vietnam",
+    "capital": "Hanoi",
+    "flag": "🇻🇳",
+    "lat": 21.0285,
+    "lng": 105.8542
+  },
+  "ye": {
+    "iso2": "ye",
+    "iso3": "yem",
+    "name": "Yemen",
+    "capital": "Sana'a",
+    "flag": "🇾🇪",
+    "lat": 15.3694,
+    "lng": 44.191
+  },
+  "au": {
+    "iso2": "au",
+    "iso3": "aus",
+    "name": "Australia",
+    "capital": "Canberra",
+    "flag": "🇦🇺",
+    "lat": -35.2809,
+    "lng": 149.13
+  },
+  "fj": {
+    "iso2": "fj",
+    "iso3": "fji",
+    "name": "Fiji",
+    "capital": "Suva",
+    "flag": "🇫🇯",
+    "lat": -18.1248,
+    "lng": 178.4501
+  },
+  "ki": {
+    "iso2": "ki",
+    "iso3": "kir",
+    "name": "Kiribati",
+    "capital": "Tarawa",
+    "flag": "🇰🇮",
+    "lat": -0.5477,
+    "lng": 166.9209
+  },
+  "mh": {
+    "iso2": "mh",
+    "iso3": "mhl",
+    "name": "Marshall Islands",
+    "capital": "Majuro",
+    "flag": "🇲🇭",
+    "lat": 7.0897,
+    "lng": 171.3805
+  },
+  "fm": {
+    "iso2": "fm",
+    "iso3": "fsm",
+    "name": "Micronesia",
+    "capital": "Palikir",
+    "flag": "🇫🇲",
+    "lat": 6.9147,
+    "lng": 158.1611
+  },
+  "nr": {
+    "iso2": "nr",
+    "iso3": "nru",
+    "name": "Nauru",
+    "capital": "Yaren",
+    "flag": "🇳🇷",
+    "lat": -0.5477,
+    "lng": 166.9209
+  },
+  "nz": {
+    "iso2": "nz",
+    "iso3": "nzl",
+    "name": "New Zealand",
+    "capital": "Wellington",
+    "flag": "🇳🇿",
+    "lat": -41.2865,
+    "lng": 174.7762
+  },
+  "pw": {
+    "iso2": "pw",
+    "iso3": "plw",
+    "name": "Palau",
+    "capital": "Ngerulmud",
+    "flag": "🇵🇼",
+    "lat": 7.5004,
+    "lng": 134.6243
+  },
+  "pg": {
+    "iso2": "pg",
+    "iso3": "png",
+    "name": "Papua New Guinea",
+    "capital": "Port Moresby",
+    "flag": "🇵🇬",
+    "lat": -9.4438,
+    "lng": 147.1803
+  },
+  "ws": {
+    "iso2": "ws",
+    "iso3": "wsm",
+    "name": "Samoa",
+    "capital": "Apia",
+    "flag": "🇼🇸",
+    "lat": -13.8333,
+    "lng": -171.75
+  },
+  "sb": {
+    "iso2": "sb",
+    "iso3": "slb",
+    "name": "Solomon Islands",
+    "capital": "Honiara",
+    "flag": "🇸🇧",
+    "lat": -9.4333,
+    "lng": 159.9498
+  },
+  "to": {
+    "iso2": "to",
+    "iso3": "ton",
+    "name": "Tonga",
+    "capital": "Nuku'alofa",
+    "flag": "🇹🇴",
+    "lat": -21.1393,
+    "lng": -175.2045
+  },
+  "tv": {
+    "iso2": "tv",
+    "iso3": "tuv",
+    "name": "Tuvalu",
+    "capital": "Funafuti",
+    "flag": "🇹🇻",
+    "lat": -8.5243,
+    "lng": 179.194
+  },
+  "vu": {
+    "iso2": "vu",
+    "iso3": "vut",
+    "name": "Vanuatu",
+    "capital": "Port Vila",
+    "flag": "🇻🇺",
+    "lat": -17.7338,
+    "lng": 168.3273
   },
 
   "al": {
